@@ -10,7 +10,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.mvpjava.tutorials</groupId>
-	<artifactId>nested-transactions-tutorial</artifactId>
+	<artifactId>spring-nested-transactions-tutorial</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>transactions-tutorial</name>
 	<description>Spring Transactions, Nested Propagation level Example</description>
